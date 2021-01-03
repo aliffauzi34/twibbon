@@ -1,4 +1,4 @@
-# twibbon
+# Twibbon Maker
 A script for make simple twibbon without editing
 
 How to use?
@@ -10,4 +10,6 @@ How to use?
 Please don't remove anything but icon and twibbon to support us!
 Don't sale this script!
 
-# © Al Fikri Kholil M & Muhammad Alif Nurfauzi
+## Authors
+* **Al Fikri Kholil M** 
+* **Muhammad Alif Nurfauzi**
