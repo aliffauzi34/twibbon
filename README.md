@@ -11,5 +11,5 @@ Please don't remove anything but icon and twibbon to support us!
 Don't sale this script!
 
 ## Authors
-* **Al Fikri Kholil M** 
-* **Muhammad Alif Nurfauzi**
+* **Al Fikri Kholil M**  - [Instagram](https://instagram.com/yaelahfik)
+* **Muhammad Alif Nurfauzi** - [Instagram](https://instagram.com/aliffauzi34)
